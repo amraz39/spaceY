@@ -4,6 +4,7 @@ In this capstone, you will take the role of a data scientist working for a new r
 
 ## Projeects
 ### Complete and Preprocess the Data Collection API Lab
+[jupyter-labs-spacex-data-collection-api.ipynb]
 In this lab, you will make a get request to the SpaceX API. You will also do some basic data wrangling and formating.
 * Request to the SpaceX API
 * Clean the requested data
