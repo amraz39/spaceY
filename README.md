@@ -6,8 +6,12 @@ In this capstone, you will take the role of a data scientist working for a new r
 ### Complete and Preprocess the Data Collection API Lab
 <code>[jupyter-labs-spacex-data-collection-api.ipynb]</code>
 
-In this lab, you will make a get request to the SpaceX API. You will also do some basic data wrangling and formating.
+Make a get request to the SpaceX API. You will also do some basic data wrangling and formating.
 * Request to the SpaceX API
 * Clean the requested data
 
+### Data Collection with Web Scraping lab
+<code>[jupyter-labs-spacex-data-collection-api.ipynb]</code>
+Perform web scraping to collect Falcon 9 historical launch records from a Wikipedia page titled List of Falcon 9 and Falcon Heavy launches 
+https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches
 
