@@ -19,3 +19,10 @@ https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches
 <code>[labs-jupyter-spacex-Data wrangling.ipynb]</code>
 Perform some Exploratory Data Analysis (EDA) to find some patterns in the data and determine what would be the label for training supervised models.
 
+### EDA with SQL
+<code>[jupyter-labs-eda-sql-coursera_sqllite.ipynb]</code>
+Determine if the first stage will land, we can determine the cost of a launch. 
+
+### EDA with Visualization Using Pandas and Matplotlib
+<code>[labs-jupyter.ipynb]</code>
+Determine if the first stage will land, we can determine the cost of a launch. 
