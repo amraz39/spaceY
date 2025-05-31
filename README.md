@@ -24,5 +24,6 @@ Perform some Exploratory Data Analysis (EDA) to find some patterns in the data a
 Determine if the first stage will land, we can determine the cost of a launch. 
 
 ### EDA with Visualization Using Pandas and Matplotlib
-<code>[labs-jupyter.ipynb]</code>
+<code>[edadataviz.ipynb]</code>
 Determine if the first stage will land, we can determine the cost of a launch. 
+
