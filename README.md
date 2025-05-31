@@ -27,3 +27,6 @@ Determine if the first stage will land, we can determine the cost of a launch.
 <code>[edadataviz.ipynb]</code>
 Determine if the first stage will land, we can determine the cost of a launch. 
 
+### Interactive Visual Analytics with Folium lab
+<code>[lab_jupyter_launch_site_location.ipynb]</code>
+Perform more interactive visual analytics using Folium
