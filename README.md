@@ -30,3 +30,10 @@ Determine if the first stage will land, we can determine the cost of a launch.
 ### Interactive Visual Analytics with Folium lab
 <code>[lab_jupyter_launch_site_location.ipynb]</code>
 Perform more interactive visual analytics using Folium
+
+### Build an Interactive Dashboard with Ploty Dash
+<code>[spacex-dash-app.py]</code>
+<code>[helper_Plotly.py]</code>
+<code>[SpaceY_Plotly_dashboard.jpg]</code>
+Build a Plotly Dash application for users to perform interactive visual analytics on SpaceX launch data in
+real-time
