@@ -46,6 +46,6 @@ Perform more interactive visual analytics using Folium
 Build a Plotly Dash application for users to perform interactive visual analytics on SpaceX launch data in
 real-time
 
-### Machine Learning Model
+### Machine Learning Models
 <code>[SpaceX_Machine Learning Prediction_Part_5.ipynb]</code>
-Build, train, and evaluate a machine learning models to predict if SpaceY will reuse the first stage.
+Build, train, and evaluate a machine learning models to predict if SpaceX will reuse the first stage.
