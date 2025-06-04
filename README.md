@@ -2,7 +2,7 @@
 ## Introduction
 In this capstone, you will take the role of a data scientist working for a new rocket company. Space Y that would like to compete with SpaceX. Your job is to determine the price of each launch. You will train a machine learning model and use public information to predict if SpaceY will reuse the first stage.
 
-## Projeects
+## Projects
 ### Complete and Preprocess the Data Collection API
 <code>[jupyter-labs-spacex-data-collection-api.ipynb]</code>
 
@@ -45,3 +45,7 @@ Perform more interactive visual analytics using Folium
 
 Build a Plotly Dash application for users to perform interactive visual analytics on SpaceX launch data in
 real-time
+
+### Machine Learning Model
+<code>[SpaceX_Machine Learning Prediction_Part_5.ipynb]</code>
+Build, train, and evaluate a machine learning models to predict if SpaceY will reuse the first stage.
