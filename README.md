@@ -53,4 +53,8 @@ real-time
 
 ### Machine Learning Models
 <code>[SpaceX_Machine Learning Prediction_Part_5.ipynb]</code>
+
 Build, train, and evaluate a machine learning models to predict if SpaceX will reuse the first stage.
+
+### Final Project Presentation
+<code>[AM---ds-capstone-template-coursera.pdf]</code>
