@@ -1,8 +1,13 @@
 # spaceY
 ## Introduction
-In this capstone, you will take the role of a data scientist working for a new rocket company. Space Y that would like to compete with SpaceX. Your job is to determine the price of each launch. You will train a machine learning model and use public information to predict if SpaceY will reuse the first stage.
+The commercial space industry is rapidly evolving, with companies like SpaceX leading innovation through reusable rockets that dramatically lower launch costs. The Falcon 9 rocket’s first stage plays a crucial role in this cost reduction by being recoverable and reusable. Predicting whether this first stage will land successfully enables more accurate launch cost estimates, which is vital for new competitors like SpaceY. By leveraging publicly available data and machine learning techniques, this project aims to build predictive models that forecast first stage landings, helping SpaceY strategize pricing and compete effectively in the commercial space market.
 
-## Projects
+## Project Goal
+1. How variables like launch site, payload mass, and booster reuse affect the success of Falcon 9 launches.
+2. How the success of Falcon 9 landing changes over time.
+3. Which algorithm peforms best for the binary classification problem of first stage landing.
+
+## Projects Steps
 ### Complete and Preprocess the Data Collection API
 <code>[jupyter-labs-spacex-data-collection-api.ipynb]</code>
 
